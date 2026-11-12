@@ -1,0 +1,8 @@
+name: testpak
+version: 1.0
+maintainer: Densikasrv
+description: Test pkg
+size: 200
+depends:
+files:
+/usr/share/testpak/testpak.readme
