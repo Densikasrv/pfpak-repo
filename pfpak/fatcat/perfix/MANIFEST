@@ -1,0 +1,8 @@
+name: perfix
+version: 0.2.9
+maintainer: Densikasrv
+description: The main file of perfix, if you need to update perfix you don't have to reinstall the system anymore! just run elev pfpak upgrade perfix.
+size: 343534
+depends:
+files:
+/perfix.elf
