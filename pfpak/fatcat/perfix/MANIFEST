@@ -1,8 +1,8 @@
 name: perfix
-version: 0.3.2
+version: 0.3.1
 maintainer: Densikasrv
-description: Perfix kernel with PDesk SDK, argv and keyboard stdin
-size: 428584
+description: The main file of perfix, if you need to update perfix you don't have to reinstall the system anymore! just run elev pfpak upgrade perfix.
+size: 399996
 depends:
 files:
 /perfix.elf
