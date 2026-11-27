@@ -1,0 +1,8 @@
+name: micropython
+version: 1.30.0
+maintainer: Densikasrv
+description: MicroPython 1.30 REPL and .py runner for Perfix
+size: 99071
+depends:
+files:
+/usr/bin/micropython
