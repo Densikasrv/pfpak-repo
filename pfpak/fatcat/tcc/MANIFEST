@@ -1,0 +1,45 @@
+name: tcc
+version: 0.9.28rc
+maintainer: Densikasrv
+description: Tiny C Compiler 0.9.28rc for Perfix
+size: 514577
+depends:
+files:
+/usr/bin/tcc
+/usr/lib/tcc/crt1.o
+/usr/lib/tcc/crti.o
+/usr/lib/tcc/crtn.o
+/usr/lib/tcc/include/alloca.h
+/usr/lib/tcc/include/assert.h
+/usr/lib/tcc/include/ctype.h
+/usr/lib/tcc/include/dlfcn.h
+/usr/lib/tcc/include/errno.h
+/usr/lib/tcc/include/fcntl.h
+/usr/lib/tcc/include/float.h
+/usr/lib/tcc/include/inttypes.h
+/usr/lib/tcc/include/limits.h
+/usr/lib/tcc/include/malloc.h
+/usr/lib/tcc/include/pdesk.h
+/usr/lib/tcc/include/setjmp.h
+/usr/lib/tcc/include/signal.h
+/usr/lib/tcc/include/stdalign.h
+/usr/lib/tcc/include/stdarg.h
+/usr/lib/tcc/include/stdatomic.h
+/usr/lib/tcc/include/stdbool.h
+/usr/lib/tcc/include/stddef.h
+/usr/lib/tcc/include/stdint.h
+/usr/lib/tcc/include/stdio.h
+/usr/lib/tcc/include/stdlib.h
+/usr/lib/tcc/include/stdnoreturn.h
+/usr/lib/tcc/include/string.h
+/usr/lib/tcc/include/sys/mman.h
+/usr/lib/tcc/include/sys/stat.h
+/usr/lib/tcc/include/sys/time.h
+/usr/lib/tcc/include/tccdefs.h
+/usr/lib/tcc/include/tgmath.h
+/usr/lib/tcc/include/time.h
+/usr/lib/tcc/include/unistd.h
+/usr/lib/tcc/include/varargs.h
+/usr/lib/tcc/libc.a
+/usr/lib/tcc/libtcc1.a
+/usr/lib/tcc/runmain.o
